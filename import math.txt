@@ -1,0 +1,13 @@
+import math
+
+def delta (a,b,c) == 0:
+         raiz1 = (-b + math
+
+def main ():
+	a = float(imput(" Digite o valor de a:   "))
+	b = float(imput(" Digite o valor de b:   "))
+	c = float(imput(" Digite o valor de c:   "))
+	imprime_raizes (a,b,c)
+
+def imprime_raizes(a,b,c):
+	if 
